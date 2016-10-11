@@ -1,0 +1,46 @@
+id,LAN200803310
+version,2
+info,visteam,SFN
+info,hometeam,LAN
+info,site,LOS03
+info,date,2008/03/31
+info,number,0
+info,starttime,1:32PM
+info,daynight,day
+info,usedh,false
+info,umphome,monte901
+info,ump1b,laynj901
+info,ump2b,cuzzp901
+info,ump3b,wolfj901
+info,howscored,park
+info,pitches,pitches
+info,oscorer,hartd701
+info,temp,62
+info,winddir,torf
+info,windspeed,6
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,sunny
+info,timeofgame,161
+info,attendance,56000
+info,wp,pennb002
+info,lp,zitob001
+info,save,
+start,robed001,"Dave Roberts",0,1,7
+start,aurir001,"Rich Aurilia",0,2,3
+start,winnr001,"Randy Winn",0,3,9
+start,molib001,"Bengie Molina",0,4,2
+start,durhr001,"Ray Durham",0,5,4
+start,rowaa001,"Aaron Rowand",0,6,8
+start,castj005,"Jose Castillo",0,7,5
+start,bocob001,"Brian Bocock",0,8,6
+start,zitob001,"Barry Zito",0,9,1
+start,furcr001,"Rafael Furcal",1,1,6
+start,ethia001,"Andre Ethier",1,2,7
+start,kempm001,"Matt Kemp",1,3,9
+start,kentj001,"Jeff Kent",1,4,4
+start,jonea002,"Andruw Jones",1,5,8
+start,martr004,"Russell Martin",1,6,2
+start,lonej001,"James Loney",1,7,3
+start,dewib001,"Blake DeWitt",1,8,5
+start,pennb002,"Brad Penny",1,9,1
